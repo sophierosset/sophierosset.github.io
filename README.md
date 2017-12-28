@@ -1,1 +1,0 @@
-# sophierosset.github.io
