@@ -35,7 +35,7 @@ De façon classique, trois sous-corpus à partir de l'ensemble complet des donn�
 
 Dans un premier temps, les lexiques ont été subdivisés en lexique de trn, dev et test. Les patrons ont subit le même découpage. Dans chaque cas, une répartition 70/15/15 a été suivie en donnant l'avantage aux données de test sur les données de dev. Quelques patrons différents, plus complexes, ont été réservés pour le test.
 
-Les données de trn ont été générés automatiquement à partir des données patrons+lexiques trn. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-trn.tar.gz).
+Les données de trn ont été générées automatiquement à partir des données patrons+lexiques trn. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-trn.tar.gz).
 
 Les données de dev comportent des énoncés nouveaux générées soit à partir de patrons et de listes nouvelles, soit à partir de patrons issus du trn et de listes nouvelles soit à partir de listes du trn et de patrons nouveaux. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-dev.tar.gz).
 
