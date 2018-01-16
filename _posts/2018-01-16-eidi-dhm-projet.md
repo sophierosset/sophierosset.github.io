@@ -85,7 +85,8 @@ Envoi à **rosset[arobase]limsi[point]fr** au plus tard mardi **6 février**
 ## Outils et programmes
 
  - Pour des CRF ou maxent ou ... utilisez la boîte à outil [WAPITI](https://wapiti.limsi.fr/)
- - Pour des réseaux de neurones, n'importe quelle implémentation existante pour la détection d'entités nommées est utilisables, par exemple [bi-LSTM, issu de Athavale et al. 2016](https://github.com/monikkinom/ner-lstm) ou encore [LSTM+CRF](https://github.com/guillaumegenthial/sequence_tagging)
+ - Pour des réseaux de neurones, n'importe quelle implémentation existante pour la détection d'entités nommées est utilisables, par exemple [bi-LSTM, issu de Athavale et al. 2016](https://github.com/monikkinom/ner-lstm) ou encore [LSTM+CRF](https://github.com/guillaumegenthial/sequence_tagging) ou [YASET](https://github.com/jtourille/yaset) dont la [doc complète et claire est ici](https://media.readthedocs.org/pdf/yaset/latest/yaset.pdf).
+ 
  - pour évaluer, vous pouvez utiliser [ne-scoring-gen](https://sophierosset.github.io/docs/eval-nlu.tar.gz)
  - pour transformer de xml à BIO et inversement [tools](https://sophierosset.github.io/docs/tools.tar.gz)
  
