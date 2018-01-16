@@ -92,5 +92,5 @@ Envoi à **rosset[arobase]limsi[point]fr** au plus tard mardi **6 février**
  
 
  - quelques commandes linux utiles
-   - cat FILE.xml | shuf | head -2 : prend le fichier FILE.xml, mélange les lignes et tire les 2 premières lignes
+   - cat FILE.xml \| shuf \| head -2 : prend le fichier FILE.xml, mélange les lignes et tire les 2 premières lignes
 
