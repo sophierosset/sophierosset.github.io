@@ -12,7 +12,7 @@ categories: eidi projet
 {:.no_toc}
 Le projet porte sur le développement d'un système de compréhension et surtout l'évaluation et l'analyse des résultats. Le corpus d'apprentissage (trn) fourni contient essentiellement des données artificielles. La question à laquelle il faudra répondre est : quel est l'impact de données artificielle sur la qualité finale ?
 
-Le projet pourra se faire individuellement ou en binôme, mais dans le cas d’un binôme, le rapport devra très clairement indiquer l’apport de chaque membre du binôme et dans ce cas une comparaison entre méthode est bienvenue (voir Section Sujet).
+Le projet pourra se faire individuellement ou en binôme voire plus, mais dans ce dernier cas, le rapport devra très clairement indiquer l’apport de chaque membre du binôme et dans ce cas une comparaison entre méthode est bienvenue (voir Section Sujet).
 
 ### Introduction
 
