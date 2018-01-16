@@ -37,7 +37,7 @@ Les données de trn ont été générées automatiquement à partir des données
 
 Les données de dev comportent des énoncés nouveaux générées soit à partir de patrons et de listes nouvelles, soit à partir de patrons issus du trn et de listes nouvelles soit à partir de listes du trn et de patrons nouveaux. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-dev.tar.gz).
 
-Les données de test suivent le même schéma auquel on a ajouté des patrons entièrement nouveaux. *Nous discuterons lors de la séance du 16 janvier de quand vous voulez y avoir accès*
+Les données de test suivent le même schéma auquel on a ajouté des patrons entièrement nouveaux. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-test.tar.gz). 
 
 Ce découpage a pour objectif de faciliter l'analyse et de la systématiser.
 
