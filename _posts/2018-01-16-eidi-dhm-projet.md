@@ -33,8 +33,6 @@ Le corpus dans son ensemble a été constitué à partir de patron de questions 
 
 De façon classique, trois sous-corpus à partir de l'ensemble complet des données ont été constitués, apprentissage (trn), développement (dev), et évaluation (test).
 
-Dans un premier temps, les lexiques ont été subdivisés en lexique de trn, dev et test. Les patrons ont subit le même découpage. Dans chaque cas, une répartition 70/15/15 a été suivie en donnant l'avantage aux données de test sur les données de dev. Quelques patrons différents, plus complexes, ont été réservés pour le test.
-
 Les données de trn ont été générées automatiquement à partir des données patrons+lexiques trn. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-trn.tar.gz).
 
 Les données de dev comportent des énoncés nouveaux générées soit à partir de patrons et de listes nouvelles, soit à partir de patrons issus du trn et de listes nouvelles soit à partir de listes du trn et de patrons nouveaux. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-dev.tar.gz).
@@ -42,6 +40,24 @@ Les données de dev comportent des énoncés nouveaux générées soit à partir
 Les données de test suivent le même schéma auquel on a ajouté des patrons entièrement nouveaux. *Nous discuterons lors de la séance du 16 janvier de quand vous voulez y avoir accès*
 
 Ce découpage a pour objectif de faciliter l'analyse et de la systématiser.
+
+#### Construction : principes
+Dans un premier temps, les lexiques ont été subdivisés en lexique de trn, dev et test. Les patrons ont subit le même découpage. Dans chaque cas, une répartition 70/15/15 a été suivie en donnant l'avantage aux données de test sur les données de dev. Quelques patrons différents, plus complexes, ont été réservés pour le test.
+
+Pour l'ensemble des sous-corpus, on a :
+
+- ask_for_recipe
+- give_cat-ingredients
+- give_ingredients
+
+Il y a un fort déséquilibre entre les corpus.
+
+Pour le dev, on a croisé  **nouveaux patrons** vs **patrons vus dans le trn**, et **nouveaux lexiques** vs **lexiques vus dans le trn**
+
+- newP = nouveaux patrons
+- oldP = patrons vus dans le trn
+- newV = nouveaux lexiques
+- oldV = lexiques vus dans le trn
 
 ### Règles du jeu
 
@@ -73,3 +89,7 @@ Envoi à **rosset[arobase]limsi[point]fr** au plus tard mardi **6 février**
  - pour évaluer, vous pouvez utiliser [ne-scoring-gen](https://sophierosset.github.io/docs/eval-nlu.tar.gz)
  - pour transformer de xml à BIO et inversement [tools](https://sophierosset.github.io/docs/tools.tar.gz)
  
+
+ - quelques commandes linux utiles
+   - cat FILE.xml | shuf | head -2 : prend le fichier FILE.xml, mélange les lignes et tire les 2 premières lignes
+
