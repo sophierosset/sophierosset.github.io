@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "projet EIDI - mesures d'évaluation"
-date:   2017-12-28 11:38:36 +0100
+title:  "Mesures d'évaluation"
+date:   2019-01-08 11:38:36 +0100
 categories: eidi mesures
 ---
 
