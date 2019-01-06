@@ -33,11 +33,11 @@ Le corpus dans son ensemble a été constitué à partir de patron de questions 
 
 De façon classique, trois sous-corpus à partir de l'ensemble complet des données ont été constitués, apprentissage (trn), développement (dev), et évaluation (test).
 
-Les données de trn ont été générées automatiquement à partir des données patrons+lexiques trn. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-trn.tar.gz).
+Les données de trn ont été générées automatiquement à partir des données patrons+lexiques trn. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/1718/generation-projet-trn.tar.gz).
 
-Les données de dev comportent des énoncés nouveaux générées soit à partir de patrons et de listes nouvelles, soit à partir de patrons issus du trn et de listes nouvelles soit à partir de listes du trn et de patrons nouveaux. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-dev.tar.gz).
+Les données de dev comportent des énoncés nouveaux générées soit à partir de patrons et de listes nouvelles, soit à partir de patrons issus du trn et de listes nouvelles soit à partir de listes du trn et de patrons nouveaux. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/1718/generation-projet-dev.tar.gz).
 
-Les données de test suivent le même schéma auquel on a ajouté des patrons entièrement nouveaux. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/generation-projet-test.tar.gz). 
+Les données de test suivent le même schéma auquel on a ajouté des patrons entièrement nouveaux. Elles sont disponibles dans cette [archive](https://sophierosset.github.io/docs/1718/generation-projet-test.tar.gz). 
 
 Ce découpage a pour objectif de faciliter l'analyse et de la systématiser.
 
@@ -87,8 +87,8 @@ Envoi à **rosset[arobase]limsi[point]fr** au plus tard mardi **6 février**
  - Pour des CRF ou maxent ou ... utilisez la boîte à outil [WAPITI](https://wapiti.limsi.fr/)
  - Pour des réseaux de neurones, n'importe quelle implémentation existante pour la détection d'entités nommées est utilisables, par exemple [bi-LSTM, issu de Athavale et al. 2016](https://github.com/monikkinom/ner-lstm) ou encore [LSTM+CRF](https://github.com/guillaumegenthial/sequence_tagging) ou [YASET](https://github.com/jtourille/yaset) dont la [doc complète et claire est ici](https://media.readthedocs.org/pdf/yaset/latest/yaset.pdf).
  
- - pour évaluer, vous pouvez utiliser [ne-scoring-gen](https://sophierosset.github.io/docs/eval-nlu.tar.gz)
- - pour transformer de xml à BIO et inversement [tools](https://sophierosset.github.io/docs/tools.tar.gz)
+ - pour évaluer, vous pouvez utiliser [ne-scoring-gen](https://sophierosset.github.io/docs/1718/eval-nlu.tar.gz)
+ - pour transformer de xml à BIO et inversement [tools](https://sophierosset.github.io/docs/1718/tools.tar.gz)
  
 
  - quelques commandes linux utiles
