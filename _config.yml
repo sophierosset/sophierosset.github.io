@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "EIDI 2018 -- systèmes de dialogue (Sophie Rosset)" 
+title: "EIDI 2019 -- systèmes de dialogue (Sophie Rosset)" 
 email: rosset[arobase]limsi[point]fr 
 description: >- # this means to ignore newlines until "baseurl:"
   Introduction aux systèmes de dialogue : compréhension, gestion de dialogue, génération et évaluation (site créé avec [jekyll](https://jekyllrb.com/)
