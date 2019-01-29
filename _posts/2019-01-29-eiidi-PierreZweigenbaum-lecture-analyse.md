@@ -78,7 +78,7 @@ on PubMed abstracts are available in PubTator: http://www.ncbi.nlm.nih.gov/CBBre
   month          = {Nov 15},
   number         = {22},
   pages          = {2909--2917},
-  title          = {{DN}orm: disease name normalization with pairwise learning to rank},
+  title          = {DNorm: disease name normalization with pairwise learning to rank},
   volume         = {29},
   year           = {2013},
   url       = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810844/}
