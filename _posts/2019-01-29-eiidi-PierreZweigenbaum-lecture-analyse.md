@@ -72,8 +72,7 @@ baseline method of 0.121 and 0.098, respectively. AVAILABILITY: The
 source code for DNorm is available at
 http://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/DNorm, along with a
 web-based demonstration and links to the NCBI disease corpus. Results
-on PubMed abstracts are available in PubTator:
-http://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/PubTator .},
+on PubMed abstracts are available in PubTator: http://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/PubTator .},
  author         = {Leaman, Robert and Islamaj Dogan, Rezarta and Lu, Zhiyong},
   journal        = {Bioinformatics},
   month          = {Nov 15},
