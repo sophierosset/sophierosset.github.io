@@ -22,28 +22,30 @@ Pierre Zweigenbaum
 Quel est l'objectif principal du travail ?
 
 Décrire la méthode employée :
-        La résumer (maximum cinq lignes).
-        Quels composants élémentaires de traitement utilise-t-elle (ex.  : segmenteur en phrases, étiqueteur, etc.) ?
-        Quelle représentation est construite pour chaque exemple ?
-        Quel type de classifieur est employé ?
-        A-t-elle besoin de connaissances spécifiques (lexiques, corpus, etc.) sur le domaine traité ?
-    Évaluation :
-        Quels jeux de données sont utilisés, pour l'entraînement et pour le test ? Quelle est leur taille en nombre d'exemples ?
-        Quelles mesures d'évaluation sont employées ?
-        Les résultats obtenus sont-ils meilleurs que ceux des travaux antérieurs ?
-        Quels sont les principaux avantages et inconvénients de la méthode proposée ?
+ - La résumer (maximum cinq lignes).
+ - Quels composants élémentaires de traitement utilise-t-elle (ex.  : segmenteur en phrases, étiqueteur, etc.) ?
+  - Quelle représentation est construite pour chaque exemple ?
+  - Quel type de classifieur est employé ?
+  - A-t-elle besoin de connaissances spécifiques (lexiques, corpus, etc.) sur le domaine traité ?
+
+- Évaluation :
+  - Quels jeux de données sont utilisés, pour l'entraînement et pour le test ? Quelle est leur taille en nombre d'exemples ?
+  - Quelles mesures d'évaluation sont employées ?
+  - Les résultats obtenus sont-ils meilleurs que ceux des travaux antérieurs ?
+  - Quels sont les principaux avantages et inconvénients de la méthode proposée ?
 
 
 #### Questions de réflexion (~ 2 pages)
 
-    Quelles sont les différences entre ces deux articles en termes de méthodes, de données ou de résultats ? (max 1 page)
-    Vous avez été recruté(e) pour continuer et améliorer ce travail :
-        Qu'essayez vous en premier ? (max 1/2 page)
-        Voyez-vous d'autres pistes à explorer ? (max 1/2 page)
+   -  Quelles sont les différences entre ces deux articles en termes de méthodes, de données ou de résultats ? (max 1 page)
+   -  Vous avez été recruté(e) pour continuer et améliorer ce travail :
+   - Qu'essayez vous en premier ? (max 1/2 page)
+   - Voyez-vous d'autres pistes à explorer ? (max 1/2 page)
 
-Modalités pratiques
+#### Modalités pratiques
 
 Ne pas hésiter à se mettre en binôme.
+
 Format :
     Police Times 12, marges 2,5 cm, simple interligne, en français (anglais possible aussi)
 
