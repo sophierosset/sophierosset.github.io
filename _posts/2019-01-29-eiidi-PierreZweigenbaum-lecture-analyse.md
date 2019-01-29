@@ -13,7 +13,7 @@ Pierre Zweigenbaum
 
 1. Leaman R, Islamaj Dogan R, Lu Z. DNorm: disease name normalization with pairwise learning to rank. Bioinformatics. 2013 Nov 15;29(22):2909-2917. [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810844/)
 
-2. Limsopatham N, Collier N. Normalising medical concepts in social media texts by learning semantic representation. In Proceedings of the Association of Computational Linguistics Annual Meeting (ACL 2016), Berlin, Germany, 2016:1014-1023. [PDF](http://www.aclweb.org/anthology/P16-1096})
+2. Limsopatham N, Collier N. Normalising medical concepts in social media texts by learning semantic representation. In Proceedings of the Association of Computational Linguistics Annual Meeting (ACL 2016), Berlin, Germany, 2016:1014-1023. [PDF](http://www.aclweb.org/anthology/P16-1096/P16-1096})
 
 
 ### Questions
