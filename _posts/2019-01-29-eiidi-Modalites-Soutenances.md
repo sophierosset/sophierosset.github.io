@@ -18,3 +18,5 @@ Rendu lectures : voir l'information du post du même jour
 Soutenance : 14 février, 14h sur le projet NLU (questions possibles sur le rendu Lectures)
 
 
+tout envoyer à : {rosset,vilnat,pz}_at_limsi.fr
+
