@@ -19,8 +19,9 @@ Pierre Zweigenbaum
 ### Questions
 #### Questions analytiques (~ 2 x 1 page)
 
-    Quel est l'objectif principal du travail ?
-    Décrire la méthode employée :
+Quel est l'objectif principal du travail ?
+
+Décrire la méthode employée :
         La résumer (maximum cinq lignes).
         Quels composants élémentaires de traitement utilise-t-elle (ex.  : segmenteur en phrases, étiqueteur, etc.) ?
         Quelle représentation est construite pour chaque exemple ?
@@ -50,6 +51,7 @@ Format :
 
 Références BibTeX :
 
+```
 @article{Leaman:BIOINFORMATICS2013,
 abstract = {MOTIVATION: Despite
 the central role of diseases in biomedical research, there have been
@@ -95,4 +97,4 @@ on PubMed abstracts are available in PubTator: http://www.ncbi.nlm.nih.gov/CBBre
   pages     = {1014--1023},
   url       = {http://www.aclweb.org/anthology/P16-1096}
 }
-
+```
