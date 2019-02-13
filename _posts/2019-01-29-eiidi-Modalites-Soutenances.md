@@ -24,7 +24,7 @@ Rendu lectures : voir l'information du post du même jour
 
 Soutenance : 14 février, 14h sur le projet NLU (questions possibles sur le rendu Lectures)
 
- - durée : 15' questions comprises
+ - durée : 10' + 5 de questions
  - Plan suggéré :
    - Formulation du projet tel qu'il a été abordé (objectifs, question que l'on cherche à résoudre)
    - méthodes explorées
