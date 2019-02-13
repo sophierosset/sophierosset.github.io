@@ -24,13 +24,13 @@ Rendu lectures : voir l'information du post du même jour
 
 Soutenance : 14 février, 14h sur le projet NLU (questions possibles sur le rendu Lectures)
 
- - durée : 15' de présentation
+ - durée : 15' questions comprises
  - Plan suggéré :
-   - ormulation du projet tel qu'il a été abordé (objectifs, question que l'on cherche à résoudre)
-    - méthodes explorées
-    - résultats obtenus
-    - discussion de ces résultats
-    - conclusion du projet : quelle(s) réponse(s) peut-on donner à la question que l'on cherchait à résoudre ?
+   - Formulation du projet tel qu'il a été abordé (objectifs, question que l'on cherche à résoudre)
+   - méthodes explorées
+   - résultats obtenus
+   - discussion de ces résultats
+   - conclusion du projet : quelle(s) réponse(s) peut-on donner à la question que l'on cherchait à résoudre ?
 
 
 tout envoyer à : {rosset,vilnat,pz}_at_limsi.fr
